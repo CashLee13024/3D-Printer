@@ -1,0 +1,35 @@
+﻿screl,s,c
+1,Parameter Configuring, Density Ratio_0
+2,Parameter Configuring, Density Ratio_1
+3,Parameter Configuring, Density Ratio_2
+4,Parameter Configuring, Density Ratio_3
+5,Printing Tracking, Movement_-1
+6,Printing Tracking, Movement_0
+7,Printing Tracking, Movement_1
+8,Printing Tracking, Temperature_-1 
+9,Printing Tracking, Temperature_0
+10,Printing Tracking, Temperature_1
+11,Quality Checking, Extrusion_-1
+12,Quality Checking, Extrusion_0
+13,Quality Checking, Extrusion_1
+14,Quality Checking, Printing_0
+15,Quality Checking, Printing_1
+16,Quality Checking, Clogging_0
+17,Quality Checking, Clogging_1
+18,Quality Checking, String_0
+19,Quality Checking, String_1
+20,Maintenance, Movement_-1
+21,Maintenance, Movement_1
+22,Maintenance, Temperature_-1 
+23,Maintenance, Temperature_1
+24,Maintenance, Extrusion_-1
+25,Maintenance, Extrusion_1
+26,Maintenance, Printing_1
+27,Maintenance, Clogging_1
+28,Maintenance, String_1
+29,Inventory Management, Density Ratio_1
+30,Inventory Management, Density Ratio_2
+31,Inventory Management, Density Ratio_3
+32,Payment Selection, Density Ratio_1
+33,Payment Selection, Density Ratio_2
+34,Payment Selection, Density Ratio_3
