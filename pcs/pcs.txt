@@ -1,0 +1,36 @@
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/p.csv" AS row 
+CREATE (p:ProductComponent) 
+SET p = row
+
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/s.csv" AS row 
+CREATE (s:ServiceModule) 
+SET s = row
+
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/c.csv" AS row 
+CREATE (c:Context) 
+SET c = row
+
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/pprel.csv" AS row
+MATCH (p1:ProductComponent{p_name: row.p1}),(p2:ProductComponent{p_name: row.p2})
+MERGE (p1)-[pprel:ProductAndProduct {pprel: row.pprel}]->(p2)
+
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/psrel.csv" AS row
+MATCH (p:ProductComponent{p_name: row.p}),(s:ServiceModule{s_name: row.s})
+MERGE (p)-[psrel:ProductAndService {psrel: row.psrel}]->(s)
+
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/pcrel.csv" AS row
+MATCH (p:ProductComponent{p_name: row.p}),(c:Context{c_name: row.c})
+MERGE (p)-[pcrel:ProductAndContext {pcrel: row.pcrel}]->(c)
+
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/screl.csv" AS row
+MATCH (s:ServiceModule{s_name: row.s}),(c:Context{c_name: row.c})
+MERGE (s)-[screl:ServiceAndContext {screl: row.screl}]->(c)
+
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/pcs/ssrel.csv" AS row
+MATCH (s1:ServiceModule{s_name: row.s1}),(s2:ServiceModule{s_name: row.s2})
+MERGE (s1)-[ssrel:ServiceAndService {ssrel: row.ssrel}]->(s2)
