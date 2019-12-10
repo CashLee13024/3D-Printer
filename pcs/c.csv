@@ -1,0 +1,1200 @@
+c,c_name
+1,[solved] hot end not holding temp for certain filaments
+2,dual v3 - a review - wait for v4? - heat creep still a problem
+3,taz 3 with taz 5 extruder
+4,new taz 5 owner needs help
+5,g21 command unknown?
+6,z-offset and 1st layer height
+7,odd behavior of plastic while bridging
+8,cura terminal entry box ????
+9,poor man's pause on filament run out
+10,ditched my skirt for this prusa i3 mk2 style wipe feature i made for the taz 6
+11,uneven/shifted/missing layer issues
+12,extrusion delay - taz 6
+13,quick unbox and first print with the moarstruder
+14,constant extrusion failures
+15,flexystruder v1 with taz 5
+16,differing machine speeds
+17,wavy wall if print speed is not very low?
+18,fundamental differences between mini and taz 5?
+19,problem using flashair sd card
+20,"hybrid parts.. abs and ninjaflex,  anybody doing it?"
+21,octoprint - movement speeds
+22,new taz pro 2nd extruder not lowering
+23,taz 6 sd card reader not reading files
+24,z height changing during print.
+25,my taz6 can't determine firmware version
+26,my taz 6 started chewing up the filament
+27,"luzbot 5 single, printing in squiggles"
+28,taz 6 w/ moar - spiralize problem
+29,taz 6 bed leveling problems
+30,problems with the taz6
+31,hs+ head taz 6 major issues!
+32,taz pro issues - print failures
+33,simple trick for leveling bed
+34,[dual extruder v3] printing different colors for different layers
+35,lulzbot taz 6: different nozzles
+36,taz 6 filament extrudes manually but not during printing
+37,[dual extruder v3] non-support filament will not print well
+38,taz 6 cuts out when heating up
+39,e1:err: mintemp taz6 dual head v2
+40,lulzbot support is horrible
+41,how to print a smooth surface?
+42,x-axis will not move in negative direction
+43,first few layers
+44,"new taz 6, tool head screw position misaligned?"
+45,dual extruder v3 tool head & flexible
+46,pimple free printing
+47,prints shifting on taz 6
+48,print critique how do these look?
+49,taz 4 hardened steel hobbed bolt
+50,"taz 6, slop?"
+51,recommended spare parts
+52,problem with replacement single extruder toolhead
+53,ngen removal from taz6
+54,taz 5 and upgrades from aliexpress?
+55,rambo not outputting enough voltage to print bed
+56,layering issues
+57,help with print quality
+58,taz 4 alignment pieces
+59,trying to connect using usb over ip
+60,taz 6 igus bearing failure / wearing out
+61,differences between lulzbot taz models 1 2 3 4 5 6
+62,recv: echo:busy: processing
+63,lutzbot taz 6 printer nozzle drags back through print
+64,taz 6 won't stay level
+65,taz6 y axis backlash/positioning issues
+66,taz 5 / flexydually ninja semiflex
+67,what can cause z-offset to shift?
+68,dimensional accuracy is off
+69,taz 5: lcd print progress bar not tracking
+70,taz 5 z homing issue
+71,taz 5 dual extruder nozzle leveling
+72,taz 6 filament jamming up.
+73,taz 5 stringy print
+74,taz 6 pauses while printing from sd card
+75,taz5 won’t pre-heat
+76,custom gcode for maintanence tasks
+77,taz dual v3 cooling mod?
+78,bed adhesion or what?
+79,extruder head encased itself in abs overnight!
+80,filament grinding
+81,live z adjust
+82,which printing error is this?
+83,"lulzbot taz 5 motherboard swapped for rambo 1.3, printing only limited to a few inches on x/y axis"
+84,dual extruder v3 prints with wrong head midprint and other malfunctions
+85,aerostruder z-offset
+86,taz 4.1 motors not working
+87,print time meter?
+88,"prints end up ""printing in air"""
+89,temperature not keeping up
+90,room temperature inquiry
+91,blobby prints on taz6
+92,switching to gizmo dorks pei sheet
+93,what causes this kind of bad print
+94,help with filament stripping
+95,modular build plate
+96,lulzbot taz dual extruder v3 tool head dual color
+97,violent shaking along x-axis
+98,graining on first layer
+99,recommendations to fix this print?
+100,taz shutting down when wiping nozzle
+101,printing larger than the taz 6 build volume
+102,slow printing
+103,taz 6 external cooling fan(s)
+104,print warping in right front area
+105,broke heat break when trying to change nozzle on aerostruder
+106,speed
+107,what causes unexpected printer pause?
+108,taz 5 for printing tpu.  aero or dual v3?
+109,dual extruder v2 heat block fan upgrade
+110,taz 6 ditto printing
+111,bought a used taz6  what to check / adjust?
+112,"print error while printing ""all at once"""
+113,shell is peeling off the model
+114,total noob with soooo many questions...
+115,thermal error with blank heater_id
+116,dual v3 with flexible filaments (ie. ninjaflex)
+117,dual extruder v3 - heat creep solved?
+118,why does filament extrude before printing.
+119,extruder too low?
+120,physical security question
+121,taz 5 heating bed - temperature error
+122,rasberry pi and webcam for the taz
+123,taz pei surface & extude problems
+124,hotend really clogged
+125,taz 6 bed calibration
+126,strange bubbling layers
+127,taz 5 flexydually fans not running at any speed less than 100%
+128,taz 6 dually - second extruder making contact with print volume
+129,how does the dualhead taz v2 compare to the v3?
+130,hexagon hoopla - hot end fell out
+131,severe warping printing spare parts using chroma strand abs
+132,jamming hexagon print head
+133,first layer issues.
+134,taz 6 ringing/resonance/ghosting along the z-axis
+135,"print quality subpar, photo included"
+136,taz 6 just stopped working???
+137,tried to make a two colour sign offset
+138,taz 5 flexystruder v1 printable parts
+139,prints out of scale
+140,first layer issues?
+141,y-axis doing rugged sounds and not moving properly
+142,"sd card plastic broke off inside card reader, taz6"
+143,black nozzle
+144,"abs / hips melting on large print, suggested settings?"
+145,taz5 stops printing after a few hours
+146,bridge nylon lifting pei sheet
+147,"flexydually v2, help printing with flexy only"
+148,tips for resolving y-axis being off about 0.10mm
+149,quick question about taz environmental considerations...
+150,retraction issue when setting extruder temp and wait command
+151,"taz 6 physical printing stops but software thinks print is still going - ""too long extrusion"""
+152,had to learn it the hard way never reboot pc while attached to taz
+153,printer stops midprint
+154,flexion vs e3d titan aero?
+155,is this heat creep? (taz 5)
+156,request for help - lulzbot taz 5 printing issues
+157,dual extruder calibration
+158,filament bending at top of exstruder
+159,z-axis repeated binding
+160,speeding up print
+161,flexydually (v1) printing issues
+162,taz 6 circle issue
+163,taz 3 showing error mintemp
+164,need help inserting new igus bushings
+165,taz 6 broken extruder idler block (help!)
+166,taz 5 and taz mini for sale
+167,generic question - do you lube rails?
+168,taz 6 messing up layers
+169,taz 4/5 skipping steps?
+170,bubbles in pei sheet
+171,comprehensive tutorial?
+172,problem with first layer
+173,"taz6 x-axis jump, cura beta to blame?"
+174,removing a stuck print
+175,"help with filament ""stalling"""
+176,nozzle change 0.3mm settings/firmware?
+177,buyer beware
+178,taz 4 z axis not lowering
+179,*warning* anyone with a thermal runaway issue
+180,other uses for a taz
+181,strange bulge on lower layers.
+182,acrylic plastic
+183,taz6 doesn't start printing after probing??
+184,maybe not clogging
+185,not sure where to begin...sub par print quality on my taz 6
+186,moarstruder
+187,dual extruder woes
+188,how to adjust extrusion speed?
+189,y axis shift on modified taz 1
+190,temperaure limit override
+191,tax 6 poor print quality
+192,print lifting off bed
+193,noob with a taz6 (please help with 2nd-4th layer)
+194,taz 6 pla issue.  please help!
+195,spool holder-box-dryer
+196,"help request: leveling a taz 5, by undoing previous mistakes?"
+197,lulzbot taz 6 flexydually z movement too small
+198,another taz 5 out of round question
+199,taz 6 bed cooling during auto-level
+200,resuming print doesn't resume extrusion  (taz 5)
+201,layer offset issue - not sure if mechanical or software
+202,taz 6 bed temperature calibration?
+203,taz 6 layer shift after 24 hours - happened twice at around same spot
+204,hardware or firmware
+205,taz 6 parts list
+206,serious air under bedsheet/bubbling on first print
+207,infill failures
+208,tool head v2.1 fans
+209,weird print problem
+210,taz 6 upgrades and questions
+211,layer lines visible - tips for a very large print?
+212,thermal error e1 - taz 6
+213,white village mills abs clicking sound???
+214,z-axis binding/grinding (even with no power and level z)
+215,layers not smooth taz 6
+216,taz 6 print shifting
+217,default settings? taz 4/5
+218,flex3drive
+219,want smoother bottom with abs
+220,layers not lining up
+221,taz 6 stopped print when i booted into windows
+222,taz 5 lulzbot dual extruder v2 ooze sheild
+223,"got my new taz 6, have some questions."
+224,heater resistor stuck in heater block
+225,taz 6 print bed
+226,taz 6 retracting too much before leveling?
+227,taz 6 thermal runaway
+228,practical minimum layer height with taz-6 with ngen filament
+229,taz 5 to taz 6 v2.1 upgrade
+230,taz 5 w/ dual extruder not reaching temperature
+231,taz5 works wonders for your kid's costume!
+232,lulzbot taz 6 - bad phone case print
+233,print freezing - large herringbone gear from sd card
+234,taz 6: large prints shifting while dual extrusion printing
+235,snapped nozzle - with solution
+236,failed prints
+237,issues printing small part
+238,lulzbot taz 6 - bottom layers?
+239,"failed print, messy print head"
+240,daydreaming??
+241,simplify 3d frustration
+242,ripples on flat surfaces not from oscillation
+243,"enclosures and ventilation (of the machine, not the print)"
+244,new to the taz 6 and hairy prints?
+245,lulzbot taz 6 end
+246,print temp
+247,taz 6 nozzle touches print when printing solid layers
+248,my printing journey.
+249,extruder calibration frustrations
+250,taz 5 - spares to print?
+251,layer consistency
+252,minor print gliches in taz6
+253,print stopping in the middle of a print
+254,(heated) enclosure for taz 6?
+255,taz 4 to e3d light
+256,sd card not being read...
+257,taz 6 power consuumption
+258,taz 6 - hardened steel nozzle / hot-end
+259,"improved filament tube path parts for taz 5, 6"
+260,taz 5: won't read sd card anymore
+261,lulzbot taz tool head v2 skips filament
+262,thermal blanket
+263,questions about printing replacement parts for taz 6.
+264,defaut e-step in cura and on lulzbot
+265,post cleaning/prep of pei bed on taz 6
+266,taz6 dual extruder v2 extrudes a bunch of excess filament before starting print
+267,"extruder decision advice for library - flexidually, dual extruder"
+268,trouble all of a sudden
+269,taz 6 - problem with z axis --- help
+270,clack clack sound on retract taz4 budaschnozzle 2
+271,taz 5 stops extruding at exactly the same point
+272,taz 5 vs makergear m2e
+273,taz5 cat guard build february 2016
+274,high speed printing experiences?
+275,taz5 0.5mm vs 0.35mm nozzle
+276,taz 5 pla have to cold pull after every print
+277,taz 5 calibration print
+278,taz 4.1 extruder motor problems
+279,taz 5 only extrudes filament for a couple of seconds
+280,pla doesn't stick to the heated bed?
+281,weird extrusion issue
+282,"printing taz parts with pet, nylon, amphora etc."
+283,new taz 6 need help please with dimensional accuracy
+284,taz 6 adhesion/levelling problems
+285,taz 6 skipping commands at end of gcode files
+286,taz 6 jams unless very high temperature
+287,lulzbot taz 5 filament extruding very slowly
+288,lulzbot taz 3 stops randomly
+289,prints come out lumpy
+290,modified taz speed trials - 40mm calibration cube
+291,taz 6 toolhead wobble
+292,taz 5 auto leveling
+293,finest layer setting for taz 5
+294,layers over support material look terrible
+295,improving the flexydually cleaning and leveling
+296,taz 5 dual extruder head calibration squares problem?
+297,taz 5 abs cracking even with cat guard. next steps?
+298,replacement controller - fried z driver
+299,improving small sphere quality
+300,layer banding - z axis issue or x axis?
+301,does flexystruder work with all filaments?
+302,extruder jams on larger prints and other problems
+303,help with base layer
+304,taz 5: z-wobble fix
+305,printing hard plastic in a flexistuder
+306,lulzbot taz 5 printing skewed holes
+307,taz 5 stops in the middle of a project
+308,need guidance: printing calibration cubes with flat corners
+309,taz5 producing rough surface
+310,taz 4 print issue
+311,modified cat guard taz 4/5 cabinet
+312,taz 4/5 y axis end plate stl?
+313,simple ninjaflex mod
+314,successful printing???
+315,has anyone modelled the taz hexagon hot end in 3d?
+316,change in print bed after printing abs
+317,stock taz 5 issue
+318,scratch on glass bed
+319,printing fine details with taz 5
+320,retraction / bubbles
+321,dual extruder knocking normal?
+322,extruder temp malfunction
+323,what's causing this?
+324,taz 5 printer is hanging mid print.
+325,setup question - new taz + new flexydually
+326,is it supposed to do this?
+327,printing statistics
+328,problems with new taz 5 printer
+329,designing an experiment for taz 5 heated bed
+330,taz 5: can fan be used on high temp prints?
+331,adhesion nightmares
+332,x-axis 12mm upgrade for taz 5. no more sag!
+333,random wait for user input
+334,printer not printing.. maybe blockage?
+335,need someone help lulzbot taz 4
+336,odd stepper issue on y axis
+337,prints are not sticking well to pei (taz 5)
+338,taz 5 prints size larger than expected
+339,taz5 unwanted retraction - confused?
+340,x-axis stepper motor issue
+341,dual extruder pva supports/automatic?
+342,wierd extruder motor issue that just started
+343,grinding through pla at a crazy rate
+344,annoying heat sink fan
+345,dual extruder flexy upgrade.
+346,5a fuse blew up
+347,how long does pei sheet usually last?
+348,printing multi-material parts with a single extruder
+349,taz very loose solid rod bearings?
+350,"modified taz5 for 1.7mm filament, have 'bulging' corners"
+351,so what do you think went wrong with my taz print?
+352,bubbling on top surface of print and corner lifting
+353,"z zero micrometer mount, pictures, files"
+354,brand new (<1week) stock taz5 x-axis stepper getting very hot
+355,taz5 dual v2 issue - could it be firmware ?
+356,taz 5 freezes
+357,fixed my wobbletaz5
+358,loose hotend
+359,nozzle can't hoild temps above 240..is it me?
+360,troublesome print - print size limitations
+361,issue with filament/extruder
+362,small fan on taz 5
+363,squashing on bottom of abs parts
+364,taz5 vs. makergear m2
+365,leaves extra extrusion on the back of a fill but not front
+366,taz 3 20-25c temperature discrepancy
+367,issues printing taller objects.
+368,longevity of taz stepper motors
+369,borosilicate glass bed reversible?
+370,question about extruder fans
+371,cylinder zits
+372,filament temperatures
+373,taz 5 bed adhesion
+374,taz5 - z axis steppers move at different rates?
+375,hot end not heating up
+376,any success with the dual metal taz (dual v2)?
+377,cant get prints to correct size
+378,retraction problem.  ideas?
+379,brand new taz5 extruder problems
+380,new taz 5 - extruder feed motor does not rotate
+381,printing from sd card?
+382,corner glob
+383,some questions before purchasing a taz5.
+384,printing a plen2 (how to make parts fit)
+385,uhhhgg -   couple issues that were not here before
+386,horizontal banding... bad!!!
+387,exstruder seems to time out
+388,taz 5 large print stopping mid-print - twice!
+389,anyone looking for a taz 5
+390,first print and the rocktapus ripped my bed :(
+391,nozzle temp dropping during print
+392,filament getting stuck.
+393,trouble with prints staying down.
+394,must-have accessories for starter?
+395,camera mount for taz 4/5
+396,replacing the stock parts
+397,printing from sd-card crashed on usb connect
+398,idea for removing pei from bed
+399,taz 4 failed prints
+400,0.35 adapter
+401,small part z-height dragging
+402,y axis problem
+403,new taz 5 owner - how do i use my tool bag?
+404,taz 5 froze during long print job
+405,hot end temperature dropping when heated bed is on
+406,guide on upgrading taz4 with e3d v6
+407,weird sphere shape printout
+408,flexistruder question
+409,dual extruder is garbage.
+410,is anyone a bit frustrated buy this?
+411,x-axis going out of level
+412,help a newbie with his 1st 3d printer
+413,"dual extruder - prints extra ""block tower"""
+414,taz 5 pla random clogging issues and a solution.
+415,new taz user
+416,different z heights with different extruders
+417,hotend heating issue : taz4 + e3d v6
+418,"taz 5 print failing, what's wrong???"
+419,taz5 mimicking printing
+420,dual extruder second head bumping
+421,filament arm pivot mod
+422,brand new lulzbot taz 5 for sale
+423,printing stop. object not complete
+424,taz4 / rambo aux fan wiring?
+425,pei bed sticks too much
+426,adjusting belt tension for perfect circles
+427,taz 5 horizontal ridges
+428,taz 3 help
+429,taz 5 and printing spare parts
+430,thinking about buying a taz 5
+431,unable to unscrew nozzle after clogged feed for several hours unattended.
+432,hot end jam - filament really stuck.
+433,considering a taz 5
+434,printing taz3 to taz5 upgrade parts with a lulzmini?
+435,getting usable supports with taz4 dual with simplify3d
+436,trying to diagnose a printing problem
+437,taz 3 or lulzbot mini for first time hobbiest?
+438,taz4/5 system level cad layout
+439,reverting back to taz 4 nozzle(and head) from taz 5
+440,taz 5 not maintaining hot end temperature
+441,taz1 fine tuning
+442,fighting z wobble
+443,sproket come loose / sheared ?
+444,thumb screws unscrewing
+445,"fine bottom, lacking top"
+446,new taz5 user needs help
+447,dual duct halo taz 4
+448,recommended computer hardware for the taz5?
+449,out of round large herringbone extruder gear
+450,likelihood of success??
+451,abs part lifting/warping off bed of taz5
+452,vertical ripples
+453,item deformation
+454,taz v nozzle clogging
+455,upgraded to taz 5 now print issues
+456,how long should the pei sheet last?
+457,"taz 5 hotend problem, please help"
+458,holes in top layer
+459,sad octopuses
+460,bed leveling using a digital indicator
+461,taz 5 help! first layer failing pretty bad.
+462,"hexagon hot end clogged already, any tips to unclog?"
+463,enclosure for taz5
+464,first layer
+465,taz 5 extruder issue.
+466,new taz 5 adhesion issue
+467,taz 5 extruding issues
+468,best practices to remove finished prints from print bed
+469,my taz 5 died
+470,taz 5 heat sink fan
+471,"i got question, there is a lot of them!"
+472,is this a z-wobble issue?
+473,several extruder questions...
+474,small cylindrical parts printing oval
+475,taz 5 hotend clogged
+476,hexagon nozzle and volcano
+477,printer will not turn on after only 3 prints :(
+478,how to removed printed objects
+479,filament stuck oozing out slowly
+480,instead of using 3m tape for pei
+481,taz4 misfeeding - hobbed bolt chewing filament
+482,replacment printed parts for the taz 5
+483,questions about replacement nozzles
+484,new  taz 5 owner 3 weeks in
+485,taz 5 hips nozzle to close?
+486,fine tuning help needed since hex hotend
+487,what i want for xmas is...auto bed leveling (kittaz)
+488,brand new taz 5 user
+489,printing replacement parts for taz
+490,what do i do if a part of my new taz5 printer came broken?
+491,taz 5 - questions
+492,new tool head v2 and ninja flex?
+493,dual extruder: can this be produced cleanly?
+494,metal shavings and clogged extruder
+495,new user seeking advice
+496,tips for a convert?
+497,hotend issues
+498,better print quality
+499,new hotend kit question
+500,printing freezes
+501,odd pattern printing a flat box
+502,pla prints are curling off the bed
+503,taz4 printing problems
+504,"single and dual extruder hotends, can i freely swap them?"
+505,taz 4 z axis wont move.
+506,a little stuck here.
+507,print bed is fianlly level
+508,heated bed always registers 1c below set temp
+509,very low extrusion rate after pla clog
+510,taz 4 feed rate and speed
+511,improving dimensional accuracy on taz 4
+512,new taz4 owner and have hard time getting prints
+513,new taz4 printer weird extrusion noise when printing slowly
+514,chunky printing in perimeters and infill
+515,"taz4 abs prints lumpy, wavy, bumpy!"
+516,can't print from sd card
+517,"taz 4 stopped extruding, now it's broken"
+518,lock washer retrofit
+519,"taz 4 not printing properly, help!"
+520,general help with taz 4
+521,switching to pla from abs
+522,taz 4 won't turn on
+523,extruder tension
+524,expanding the print envelope. what would be involved?
+525,"taz 4 adhesion problems and ""wait for user"" on lcd screen"
+526,drive gear broken. why?
+527,sharp overhang blobbing
+528,extruder hitting lower layer(s)
+529,taz 4 not reading sd card
+530,budaschnozzle not extruding
+531,pla jamming on taz 4
+532,fan lowering hot end temp
+533,taz 4 quivers printing round sequences
+534,new taz 4 on-order
+535,taz 4 filament holder bar strength question
+536,a few pre purchase questions
+537,why do bad things happen after the print finishes?
+538,curling on corners
+539,taz 40mm fan mount designs/revisions
+540,thoughts about the taz 3 from taz 3 owners wanted
+541,blown fan 2 mosfet
+542,"strange ""striping"" of extruded filament"
+543,bed calibration print question
+544,taz heated bed - no longer going up to temp
+545,considering purchase
+546,small repeating blob on inner perimiters
+547,lulzbot customer support in need of an upgrade :-(
+548,what's up with these noisy fans??!?!
+549,extruder fan help!
+550,plowing on 0.15 layer for some areas
+551,hobbed bolt chewing through abs on taz 0.15 layer height
+552,hot end fail
+553,"taz vs. ultimaker, series 1, m2..."
+554,"unsure of cause, help?"
+555,heat resistor dead at 3 months
+556,frakentaz? building a taz from a prusa i2?
+557,taz y-axis failure
+558,rotator cuff - too much extrusion on corners or overhangs
+559,"weird ""ribbing"" on my prints"
+560,poor layer adhesion and some funky y-axis stuff on taz
+561,what scale are taz source files in?
+562,new printer calibration issue
+563,printing replacement parts
+564,print help
+565,dimension accuracy problem while printing with taz
+566,slightly off x and y axis dimensions
+567,goofy first layers
+568,taz fan mount!
+569,taz pro owners -- do you recommend it?
+570,taz 5 low print quality
+571,new tool heads
+572,top layer possible over extrusion
+573,troubleshooting print quality
+574,the first layer
+575,dual extruder - what should i expect?
+576,taz5 z-axis skewed after each print
+577,taz 5 user looking for test print on taz 6
+578,squish and stringy appearance
+579,print quality problem
+580,suggestions on cleaning up print
+581,first benchy: how to improve!
+582,bed centered cam mount for taz 6 ???
+583,why i bought a taz 5
+584,poor print quality
+585,strange lines on my print
+586,taz 4 belt problem
+587,infill to perimeter issues
+588,new taz 6 owner
+589,"i'll admit it, i like em small."
+590,too much rocktopus settings
+591,leveling the y axis - getting rid of high / low spots
+592,flexy dually - almost there (print quality)
+593,dampers for taz 5 steppers?
+594,lulzbot v2 hot end w/ stainless steel or other high quality nozzle?
+595,z couplers
+596,do we like the new v2 dual print head ?
+597,print quality degrading?
+598,what should i actually expect from my taz 5 with minimal modifications
+599,sh!tty build quality
+600,new taz 5 - issues with taller prints - consistent height ribbing / waviness (solved)
+601,ticking noise somewhere on the y axis
+602,print quality after layer >~6
+603,taz 4.5 print quality issue
+604,quality problems
+605,z axis moves are inconsistent
+606,taz 5 nozzle clog
+607,1/4 of my print messes up.
+608,changing to a chimera
+609,new taz 5 owner unboxing experience
+610,improved taz fan duct
+611,slightly gloppy edges (pla)
+612,best taz 3/4 upgrades...
+613,what manner of sorcery is this?
+614,sudden issue with default taz3 profile
+615,taz 4 print quality advice?
+616,print resolution for little octopus that comes with new taz?
+617,taz 2 print quality finally sorted (hopefully)
+618,considering purchasing a taz 5 from a friend
+619,taz 6 - no greasing required on any axis?
+620,building an enclosure
+621,general maintenance
+622,upgrades to convert a taz 4 to a taz 5
+623,hotend no temp. heater is working
+624,taz 5 hardened steel hs+ 1.2mm troubleshooting
+625,using loctite on a taz5 e3d hotend
+626,lulzbot taz 6 homing failed
+627,auto calibrate
+628,lulzbot taz 6 probe fail clean nozzle
+629,"[dual extruder v3] filament stops feeding, ruins print, can't get out easily"
+630,additional heating resistors in taz4 and taz5
+631,auto-leveling presses down bed corners
+632,"new,taz workhorse any first hand accounts?"
+633,nozzle is missing wiper pad and hitting mount
+634,lulzbot taz 6 power failure
+635,hs tool head 0.8 made a expensive mistake
+636,taz 5 grinding filament
+637,heater wires
+638,i think i fried my taz 6 -- help!
+639,overtemp error
+640,"abs ""squeeze"""
+641,did i just kill my taz 6?
+642,"used taz 4, how to determine nozzle size"
+643,clogged bore on taz6
+644,filament runout - clogged nozzle
+645,source for 0.35 mm nozzle taz 5
+646,taz 5 dual extruder v3 issues
+647,taz 6 not extruding
+648,auto leveling malfunction
+649,taz6 misses leveling washer when traveling to it.
+650,taz6 bed  gap to nozzle far greater one one side after auto-leveling is complete
+651,taz 6: two corners of build plate too low
+652,taz 6 leveling issue
+653,taz 5 with unusual problem.  need help
+654,v3 dual head extruder wiring problem on taz 5
+655,replacement nozzles for taz4 budaschnozzle
+656,"help !bed leveling problem, unbalance nozzle of v3"
+657,taz 5 dual extruder 3 issue
+658,taz5 dual v3 loose nozzle
+659,pull my taz 4 out of storage
+660,taz 6 with aerostruder problems.
+661,home in cura is not the same as home using glcd
+662,taz 6 probing failed after arduino board change.
+663,"nozzle diameter, and diameter of extruded material"
+664,taz aerostruder vs it-works e3d titan aero toolhead
+665,switching back to taz 6 single extruder from dual extruder
+666,dual extruder v3 - why angle the filament channel?
+667,prints jam halfway through - taz 5
+668,lulzbot randomly called it quits
+669,taz 6 is retracting more filament than specified
+670,3rd party nozzles?
+671,dual extruder v3 leveling
+672,proposed dual head with the best of the single head
+673,"filament stuck in printer, wont budge, wont remove"
+674,dual v3 head not ready for prime time
+675,interlayer bonding issue with taz 6
+676,broken nozzle
+677,filament sticking to nozzle on first layer
+678,changing nozzle
+679,taz dual v3 failures
+680,lulzbot taz dual extruder v3 tool head
+681,nozzles for hexagon hotend
+682,what material is nozzle tip made from?
+683,moarstruder issue
+684,left z axis threaded rod binding
+685,dual extruder v3 nozzle type
+686,single extruder tool head compatible with taz 6?
+687,taz 5 homes and then moves up
+688,taz 6 error probe fail clean nozzle
+689,taz 4 left & right z motors get out of sync
+690,potentially dangerous behaviour of taz 6
+691,z axis issue with new taz6
+692,problem with taz 6 print
+693,taz 6 auto level issue (help)
+694,using the taz6 without auto leveling?
+695,nozzle replacement for taz 2
+696,"taz6 flezystruder problem with ""auto home"""
+697,taz bed not heating up - help with troubleshooting
+698,how much bearing play is normal?
+699,nozzle pressing into washers when doing bed level
+700,taz 6 drags nozzle on print
+701,taz 6 probe failed clean nozzle errors
+702,snapped the nozzle on my taz 5
+703,dual extruder blobs with 1.75mm filament
+704,anyone have an extruder stepper motor pin-out
+705,taz 6 print not moving forward after completion
+706,what does z-offset do?
+707,lulzbot taz 6 - toughest printable material
+708,serious taz 6 dual toolhead wobble
+709,taz 6 dual extrusion problems
+710,will modded taz 5 toolhead to flexistruder work?
+711,taz 5 small prints getting knocked off bed at the same height each time
+712,metal build plate for taz 5
+713,changing machine y-axis home 0
+714,"is this ""normal""?"
+715,"taz 6, extruder v2.1, clogging after 2-3 layers"
+716,bulging when the nozzle makes a sharp turn
+717,taz 5 - nozzle temp not set with gcode
+718,prime and wipe tower always failing (ngen + pva)
+719,how much offset is normal for auto alignment?
+720,upgrade 4 to 6?
+721,taz 6 + flexydually ninjaflex oozing
+722,taz 5 pei sheet replacement?
+723,"brand new taz 4 won't feed filament, only strips it"
+724,hotend connector source/type
+725,extrusion problems
+726,taz 6 auto-leveling ends up too close to buildplate
+727,"pei bed burnt, cracked, & peeled"
+728,switching to .35mm hot end
+729,dual extruder tool head v2 installaion issue
+730,debris appears in extruded filament
+731,taz 6 tool head on taz 5?
+732,taz 6 first layer/z axis issues
+733,taz 6 dual extruder questions
+734,taz 5 extruder issue
+735,taz 6 dual nozzle natural pva clogging
+736,extrusion jam before the heated head (photos)
+737,taz 3 - suddenly stopped working
+738,catastrophic failure
+739,taz 6 - flexystruder wipe failure
+740,"taz 6: z-axis stops midway through print x & y continue, grinding nozzle on print"
+741,taz 4 hotend replacement
+742,taz hexagon thermistor soldered
+743,taz 6 - scratched my build plate?
+744,taz 3 with hexagon hot end - z axis endstop problem
+745,taz 6 oddity...
+746,taz 6 head w/ dual cooling fans
+747,dual extruder advanced usage
+748,taz 6 single or dual head
+749,where were would i get a lulzbot taz 3 budaschnozzle 1.3 nozzle?
+750,nozzles
+751,temp swings 8 deg.
+752,12v for a fan on extruder?
+753,extrusion problem with dual extruder v2
+754,how do you clean taz 5 nozzle regularly?
+755,installation x/y home issue
+756,don't know what's going on. help would be appreciated
+757,taz 5 vs. um2+ comparison chart
+758,help changing hot ends
+759,move taz 5 bed over 1cm?
+760,buy 0.5mm hexagon nozzle?
+761,my duel cool fan fixture...
+762,print one at a time machine settings for taz5
+763,nozzle got clogged
+764,think i've destroyed my nozzle. advice?
+765,nozzle diameter vs actual extrusion diameter
+766,hotend won't hold temp w/ fan above 55%
+767,"severe issues with pla and petg, + questions"
+768,apologies if it's a dupe: conversion to 1.7mm?
+769,problems with stl files from autodesk inventor?
+770,"taz 5 0.35mm --> 0.5mm, firmware?"
+771,print failures / clog / hobbed bolt eating into filament
+772,frequent nozzle change (.35-.50) and bed leveling
+773,dual extruder mechanical issue
+774,has anyone done a flexy dualie hexagon?
+775,taz 4 clogging issues with pla
+776,0.35 vs 0.50 extruder nozzles
+777,budaschnozzle not heating
+778,nozzle change
+779,"feeder failure, unable to complete first print."
+780,taz 3 fan/hot end
+781,taz 5 leveling always?
+782,taz 4 vs taz 5?
+783,taz 5 not powering on.
+784,v2 dually nozzle from 2 single tool heads
+785,taz 5 - first print nozzle problem
+786,pico hot end on taz 5
+787,error mintemp
+788,which nozzle do i have on my taz 5
+789,brand new taz 5 not extruding properly on day 2
+790,really frustrated.
+791,taz5 clogging.  leads to more issues.
+792,i'm in a jam!!
+793,taz 5 fan wiring
+794,taz 5 hot end to cooling fins loose?
+795,z-axis stops stepping
+796,z-hop settings taz5
+797,warped print bed
+798,min/max temp error
+799,use second nozzle heater to control chamber heating
+800,hexagon hotend requires much higher temperature for pla?
+801,taz 5 - randomly dropping nozzle 3-7+mm into print
+802,pei kit for taz4
+803,taz 5 purchase
+804,new tool head v2 first thoughts review
+805,taz4 resonance on the y-axis?
+806,help with pla filament problems
+807,0.5mm budaschnozzle 2.0c
+808,"i printed the test octopus twice, but the layers separated."
+809,trying out hips
+810,melting power resistor
+811,bed plate warped
+812,taz 4 hot end model?  budaschnozzle 2.0c?
+813,place to tap 24v power
+814,pla leaking around nozzle heater
+815,taz 4 1.75mm filament q
+816,finding budaschnozzle version
+817,taz-4 - won't power on
+818,budasnozzle clogged. how do i unclog it?
+819,custom taz 3 with upgraded z-axis plus extras for sale
+820,is it normal for the x stop to be beyond the bed?
+821,layer adhesion problem
+822,bed levelling
+823,clarification on z axis nozzle height
+824,taz max print speed?
+825,taz 2 nozzle temps over 240c
+826,broken part
+827,look at this cool thing i made!!
+828,bearing failure on printer head
+829,"taz: add a second extruder, what to buy?"
+830,budashnozzle 2.0 replacement parts listed incorrectly
+831,bed suddenly stopped heating
+832,nozzle height
+833,taz 3 maxtemp and crash
+834,touchscreen lcd
+835,thermal runaway
+836,selection knob not working?
+837,taz 6 - electrical short repair
+838,taz 6 flashing ? on screen after firmware update
+839,taz 5 extruder arm crooked
+840,trouble again
+841,"taz 4 not boot, please help"
+842,diy taz-6 auto home was a problem
+843,get the static of my chest
+844,taz 6 heating failed
+845,no communication from usb/lcd screen lit but blank
+846,taz 4/5 lcd display unreadable
+847,upgraded taz 4/5/6 color lcd screen
+848,taz 5 stopped working
+849,what is the taz 5 lcd command to extrude ?
+850,manual control of extruders via lcd
+851,fan not spinning below 25%
+852,hot end cools in the middle of a print
+853,use one extruder with dual extruder
+854,print bed never coming up to temperature
+855,taz lcd start to blink when power on?
+856,lcd resetting itself
+857,taz 6 x belt rubs carriage
+858,taz upgrade list...current and future
+859,vibration in y axis even after bed swap
+860,upgrading a lulzbot taz 5 to taz 6
+861,y axis skips during very long print
+862,x-axis shifting with large prints
+863,y-belt slipping
+864,turn off z-motors during print
+865,confused by the leveling print bed instructions in manual
+866,have issues and been fiddling with it for 3 weeks
+867,cannot level bed- left side too high
+868,improved auto bed leveling taz 6 - part 1
+869,new taz 6 modular bed without pei print surface
+870,flexystuder made from flexydually help
+871,taz 6 skipping
+872,cant level flexydually tool head v2 halp!!!!!!
+873,arranging the print bed
+874,abs print dragging and lifting
+875,review of lulzbot modular print bed heater
+876,cable connector for heated bed getting very hot on controller side.
+877,new taz 6
+878,extruder running into edge of print bed
+879,broken print bed help!
+880,hacking the taz6 to make a larger bed?
+881,measuring print bed temperature
+882,cleaning
+883,"ringing strong in x, low in y direction"
+884,failed abs print
+885,new heated bed
+886,moving spool to left hand side of taz 5?
+887,adhesion problems?
+888,print bed leveling
+889,hexagon hot end
+890,coating on bed that ships with taz 4
+891,(help!) print bed moves too far on y axis
+892,wiring conflict?
+893,taz5 underextruding by half
+894,"taz 5 ""y"" scaling issue"
+895,taz 5: motor stops spinning -- no filament being fed to hot end
+896,taz 5 e3dv6 pt100 thermocouple
+897,taz 6 stepper drivers
+898,max temp error when extruder miswired
+899,have these issues been fixed? (taz6)
+900,stepper motor unresponsive in e01 port unsure as to how to switch
+901,temperature controlled enclosure
+902,rambo boards
+903,case fan upgrade [tutorial]
+904,internal blower setup for taz 4 to taz 5 upgrade
+905,new taz 4 bed questions
+906,auxilliary power rambo and octopi
+907,3rd extruder
+908,rambo box fan question
+909,taz 4 dual extruder
+910,lighting a 24 volt taz 3.2
+911,glcd / rambo board not powered without usb?
+912,"taz 5 ""z"" scaling issue"
+913,taz 6 filament spool holder
+914,"7 kg of plastic, and my x & y linear bearings are warn out."
+915,wear on y axis rods
+916,taz5 igus replacement on y
+917,taz 6 - y axis bearing wear
+918,odd sound on moving z-axis (damage ?)
+919,taz 4 for sale uk
+920,bearing play - is this normal?
+921,new taz 5 modification path
+922,12mm igus linear bearing issue
+923,taz 3 to 5 -  stumped
+924,igus bushing clip/sleeve
+925,taz 5 fr control
+926,y_idler_mount_v4.0.fcstd file not the same part as on my taz 6
+927,taz 5 wavy base layer
+928,lm10uu bearings
+929,taz 6 loose y-axis travel
+930,"noisy x-axis, but only on slow movement"
+931,sporadic x axis stepper motor
+932,migrating parts to freecad
+933,my extruder mount is rocking!
+934,taz 5 build
+935,jerky/stalled motor (taz 4)
+936,z axis 1605 x 450mm ballscrew conversion
+937,taz 5 upgraded rods and bearings
+938,deformation of extruder body
+939,"taz 4 x end plate, dual extruder, flexydually for sale"
+940,z-axis threaded pole misalignment causing motor jam
+941,taz 4 idler bearing not rotating freely
+942,squeaky x-axis
+943,linear bearing quick degrading
+944,bearing holder auto level
+945,y-axis end mounting holes wrong
+946,taz double bearing holder tight fit
+947,taz bearing holder how to insert bearing
+948,bad first layers
+949,hobbed bolt and extruder have ~2mm offset
+950,extruder green gears
+951,taz5 filament holder lever thing broke... easy to replace?
+952,extreme extruder gear wearout or normal?
+953,list of items that wear out
+954,gcode files for the taz 2.1 extruder gears
+955,taz spare parts.
+956,ticking on z-axis
+957,z axis stepper motor not reponding
+958,lulzbot taz6 z-axis binding
+959,anyone grease the taz 6 z-axis lead screws?
+960,taz 6...continued z issuea
+961,taz5 lead screw nut
+962,openbuilds cable chain & e3d mod for taz
+963,making a taz 4 quieter
+964,taz 6 vibration damper compatible y motor mount
+965,taz pro z axis brake
+966,new couplers
+967,[taz5] noise during z homing
+968,left z motor not working
+969,best way to align z axis on a taz?
+970,new and improved z motor shaft coupler
+971,taz 5 extruder motor extremely hot!
+972,extruder motor not turning
+973,[solved] extruder motor not turning
+974,connectors for the extruder module
+975,help...extruder motor is working but no filament being extruded
+976,freezing/stops mid print [solved]
+977,kauri cables gunna be tight
+978,"broke my herringbone gears, and fried stepper motor?"
+979,extruder reverses instead of extruding
+980,inconsistent heat bed question
+981,24v heat bed
+982,heating simultaneously
+983,heat resistors keep burning out
+984,will the real taz 4 build volume please stand up
+985,can't replace thermistor
+986,replacement e3d thermistor
+987,thermal error e1
+988,voltage and current measurement - taz 4
+989,solved taz 6 bed not heating
+990,dual extruder dummy plug for second connector
+991,taz 6 heated bed not heating - perplexing puzzle - [edit - solved!! heater pin melted on rambo!]
+992,"silicone heater, is not recognized by the printer"
+993,reattaching glass thermistor to bed
+994,12v 40mm cooling fan replacing the original 24v
+995,taz 5 hotends not heating up all the way
+996,broken heatsink tube
+997,hot end temp offset by 25 c?!
+998,converting to e3d-v6 hotend
+999,would this thermistor work?
+1000,thermistor wiring
+1001,"taz'clone' sporting a 2w laser cutter, the l?z16"
+1002,dual extruder installation questions and documentation notes
+1003,[dual extruder v3] disassembly of extruders from heat break
+1004,heat break fan not working
+1005,difference between 3mm and 1.75mm hexagon?
+1006,mintemp error
+1007,taz 3 with new taz 5 compatible extruder
+1008,taz 6 rambo 1.3l heat sinks
+1009,micro blower fan to regular axial fan change
+1010,melted filament coming out top of heat block.
+1011,hexagon heat sink fan direction
+1012,"taz 6: different stls, different gcodes, different computers - all prints fail at the same spot"
+1013,side fans stopped working
+1014,duel v3 heat creep fix
+1015,taz 6 with duet wifi board and bl-touch
+1016,cooling fan overdrive?
+1017,well it's my turn chasing the dog 'z' bed level
+1018,taz 4 extruder fan
+1019,delamination
+1020,z-axis homing issues - lulzbot mini toolhead on taz 6
+1021,dumpster find
+1022,taz 5 print jams
+1023,usb connection issue
+1024,taz 6 e3d conversion and fan ducts.
+1025,extruder heatsink fan not spinning
+1026,"taz 6: ""thermal runaway eo"" & ""err: mintemp eo"""
+1027,power supply fan upgrade [tutorial]
+1028,where does the small fan on the extruder plug in?
+1029,enclosure design sanity check...
+1030,v3 dual extruder on taz 4
+1031,extruder fans not working and it's causing the motor to make a knocking sound from lack of cooling.
+1032,taz 6 extruder on taz 5
+1033,modified heatsink fan duct for taz-6 with leds
+1034,dead taz 5?
+1035,fans don't spin @ 24% taz 6
+1036,help trouble print head & fans after disassembly
+1037,chrysalis: aluminum-framed enclosure for taz 6
+1038,enclosure duct
+1039,the case fan
+1040,adventures with petg
+1041,taz 6 extruded harness pinout?
+1042,taz head v2.1 clogging
+1043,consistent jams with pla on taz6 heat creep issues
+1044,switching off cooling fan mid print in cura?
+1045,favorite dual cooling fan?
+1046,taz 4 stopping mid-print...sometimes
+1047,control box fan always off
+1048,abs fume extraction and temperature inside enclose?
+1049,taz 6 toolhead question
+1050,taz 6 - motors different height - dampeners
+1051,taz4 flexydually v2
+1052,is there a way to put a dual extruder fan on the taz5
+1053,taz hexagon 40mm fan mount
+1054,makerfarm hexagon hot end insulating boot
+1055,extruder head v2 for taz 4
+1056,ed3 v6 cooling fan not working and have a mintemp error
+1057,cooling fans
+1058,dual extruder v2 fan clearance?
+1059,[solved] done goofed and now my printer won't turn on
+1060,taz 5 power supply with a dead fan
+1061,about to give up on pla
+1062,taz 5 80mm fan shroud --  files linked
+1063,taz 3 - control box fan noise fix?
+1064,stepper motor cooling on taz5
+1065,astrosyn dampers - amazing!
+1066,power supply fan died here's a quick fix
+1067,enclosure
+1068,hexagon hot end fan
+1069,single extruder tool head v2 and taz 3.1
+1070,need help with abs bridging / make bridging test
+1071,taz 5 power brick fan always on
+1072,small fan quit right after the hotend clogged.
+1073,taz5 hexagon hotend fan
+1074,taz 5 left side fan duct
+1075,instructions for dual extruder into taz 5?
+1076,do you unplug your power supply?
+1077,taz replacement bed
+1078,hand made cooler fan issue taz3
+1079,hooking up the taz 4 fan
+1080,fan0 port power output (fried cooling fan)
+1081,taz 3 noise and smell considerations
+1082,taz 1.0 case fan
+1083,taz fan mount?
+1084,brand new workhorse filament issue
+1085,"convert aerostruder to 1.75, how?"
+1086,taz 6 fillament real holder problems
+1087,taz pro - esteps per extruder - how to set?
+1088,taz pro build log
+1089,next single extruder for taz 6
+1090,how fast can taz 6 quickprint?
+1091,first layer weirdness
+1092,taz 6 out of level bed
+1093,12v silicone heater source
+1094,brand new at this stuff
+1095,taz 5 extruder wiring help
+1096,2 different filaments in 1 print?
+1097,large shifts on my prints
+1098,filament channel is clogged?
+1099,taz 6 dualextv2 - filament jammed in extruder
+1100,taz 5 flexydually skipping/slipping with ninjaflex
+1101,modified wipe code for other toolheads to use dual v3 wipe pad
+1102,filament feed failure
+1103,v3 dual purge sequence on e2 not purging material
+1104,dual extruder v3 'heating failed e1'
+1105,taz 5 and 1.75mm filament
+1106,no brim and bed not going past 85
+1107,aerostruder and 1.75 filament
+1108,flexydually test print very stringy
+1109,1.75 mm filament in 3.0 mm hot end
+1110,how do i manually extrude?
+1111,titan aero on taz 6
+1112,"dual extruder upgrade to v3 from v2, what could go wrong?"
+1113,dual extruder 3 with flexi?
+1114,taz6 dual extrusion question
+1115,abs sticks to plate like insanity! help.
+1116,"printer stops extruding, chomps filament"
+1117,endstops hit: x - layer shifts
+1118,line voids in prints
+1119,using limonene to unplug hot end
+1120,taz 6 dual extruder problems
+1121,taz 6 - i *think* it is a hardware problem? :)
+1122,filament runout sensor for octoprint
+1123,taz6 dimensions
+1124,extruder steps calibration. what am i missing?
+1125,anyone put a thermocouple on a taz 5?
+1126,taz 5 grinding filament and not extruding material.
+1127,pla is too stiff to extrude at the end of finishing a role
+1128,spool organization ideas
+1129,"taz 6 - whats your ""workhorse"" filament?"
+1130,dual extruder with water-soluble filament
+1131,taz 6 reboots manually loading filament
+1132,taz 6 extruder mount cracked and broke
+1133,filament material used for production printed parts?
+1134,failure at height issue?
+1135,taz 6 top surface pattern
+1136,use only one extruder of dual extruder v2
+1137,idler tension
+1138,idler arm finally cracked on taz5
+1139,need to replace filament mid print with filament that arrives tomorrow
+1140,taz 5 extruded filament buildup
+1141,help. taz 5 head pulls up already laid filament
+1142,how long can you run the taz 5 for?
+1143,spare parts filament
+1144,hot end clogged? it is slow and sporatic to extrude
+1145,z layer problems every 30mm
+1146,taz 5 retraction
+1147,simple filament runout sensor
+1148,problem with extruding filament in unsupported areas
+1149,"taz 6 : better filament path, prevent filament snapping"
+1150,help with elephant's foot
+1151,first layer issue
+1152,taz 6 - just noticed the y-axis doesn't touch the table
+1153,need a hand troubleshooting this issue please
+1154,questions for building an enclosure
+1155,tip to keep tip clean
+1156,"lines in print, need help please!"
+1157,flexydually - clogged front hotend on test print
+1158,flexydually or dual extruder
+1159,mini flexystruder on taz 5?
+1160,taz 5 printed parts
+1161,extruder calibration
+1162,can we just use regular taz5 .050 print head for flexible filament?
+1163,x-axis bushings loose
+1164,flexystruder too tight for filament
+1165,filament binding
+1166,filament support for dual extruders
+1167,filament near end of spool problem
+1168,adding the dual extruder
+1169,dual extruder v2 filament guide bracket
+1170,abs microclimate
+1171,starting out poor
+1172,lulzbot flexystruder
+1173,extruder tension knobs slipping
+1174,taz4 --> taz5
+1175,leveling help for taz 5
+1176,adeshion troubles
+1177,enclosure design - $300 - looking for feedback/ideas
+1178,3d printable taz modifications
+1179,filament change?
+1180,anyone looking to buy a taz 5?
+1181,fillament striping
+1182,ninjaflex and pva spool spacers for the taz spool arms
+1183,e3d v6 1.75mm mount
+1184,esteps calibration madness
+1185,taz damaged out the box - help me fix it
+1186,abs sizes and clogging the taz
+1187,hexagon hot end clogged with hips
+1188,filament broken way down
+1189,dual extruder tool head for sale!
+1190,"hot end temp lowered when print starts, stringing results"
+1191,any thoughts about this delamination?
+1192,dual extruder and flexystruder
+1193,extruder calibration not adding up
+1194,filament keeps backing up
+1195,rapid stripping of filament on hobbed gear
+1196,taz 3 ability to mid job pause/filliment change?
+1197,level and thickness?
+1198,"hope you kept your taz box...simple ""heated"" enclosure"
+1199,taz gears slipping.

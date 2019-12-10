@@ -1,0 +1,725 @@
+screl,s,c
+1,Parameter Configuring,[solved] hot end not holding temp for certain filaments
+2,Parameter Configuring,dual v3 - a review - wait for v4? - heat creep still a problem
+3,Parameter Configuring,taz 3 with taz 5 extruder
+4,Parameter Configuring,new taz 5 owner needs help
+5,Parameter Configuring,g21 command unknown?
+6,Parameter Configuring,z-offset and 1st layer height
+7,Parameter Configuring,odd behavior of plastic while bridging
+8,Parameter Configuring,cura terminal entry box ????
+9,Parameter Configuring,poor man's pause on filament run out
+10,Parameter Configuring,ditched my skirt for this prusa i3 mk2 style wipe feature i made for the taz 6
+11,Parameter Configuring,uneven/shifted/missing layer issues
+12,Parameter Configuring,extrusion delay - taz 6
+13,Parameter Configuring,quick unbox and first print with the moarstruder
+14,Parameter Configuring,constant extrusion failures
+15,Parameter Configuring,flexystruder v1 with taz 5
+16,Parameter Configuring,differing machine speeds
+17,Parameter Configuring,wavy wall if print speed is not very low?
+18,Parameter Configuring,fundamental differences between mini and taz 5?
+19,Parameter Configuring,problem using flashair sd card
+20,Parameter Configuring,"hybrid parts.. abs and ninjaflex,  anybody doing it?"
+21,Parameter Configuring,octoprint - movement speeds
+22,Printing Tracking,new taz pro 2nd extruder not lowering
+23,Printing Tracking,taz 6 sd card reader not reading files
+24,Printing Tracking,z height changing during print.
+25,Printing Tracking,my taz6 can't determine firmware version
+26,Printing Tracking,my taz 6 started chewing up the filament
+27,Printing Tracking,"luzbot 5 single, printing in squiggles"
+28,Printing Tracking,taz 6 w/ moar - spiralize problem
+29,Printing Tracking,taz 6 bed leveling problems
+30,Printing Tracking,[solved] hot end not holding temp for certain filaments
+31,Printing Tracking,problems with the taz6
+32,Printing Tracking,hs+ head taz 6 major issues!
+33,Printing Tracking,taz pro issues - print failures
+34,Printing Tracking,simple trick for leveling bed
+35,Printing Tracking,[dual extruder v3] printing different colors for different layers
+36,Printing Tracking,lulzbot taz 6: different nozzles
+37,Printing Tracking,taz 6 filament extrudes manually but not during printing
+38,Printing Tracking,[dual extruder v3] non-support filament will not print well
+39,Printing Tracking,taz 6 cuts out when heating up
+40,Printing Tracking,e1:err: mintemp taz6 dual head v2
+41,Printing Tracking,lulzbot support is horrible
+42,Printing Tracking,how to print a smooth surface?
+43,Printing Tracking,x-axis will not move in negative direction
+44,Printing Tracking,first few layers
+45,Printing Tracking,"new taz 6, tool head screw position misaligned?"
+46,Printing Tracking,dual v3 - a review - wait for v4? - heat creep still a problem
+47,Printing Tracking,taz 3 with taz 5 extruder
+48,Printing Tracking,dual extruder v3 tool head & flexible
+49,Printing Tracking,pimple free printing
+50,Printing Tracking,prints shifting on taz 6
+51,Printing Tracking,print critique how do these look?
+52,Printing Tracking,new taz 5 owner needs help
+53,Printing Tracking,taz 4 hardened steel hobbed bolt
+54,Printing Tracking,"taz 6, slop?"
+55,Printing Tracking,recommended spare parts
+56,Printing Tracking,problem with replacement single extruder toolhead
+57,Printing Tracking,ngen removal from taz6
+58,Printing Tracking,taz 5 and upgrades from aliexpress?
+59,Printing Tracking,rambo not outputting enough voltage to print bed
+60,Printing Tracking,layering issues
+61,Printing Tracking,help with print quality
+62,Printing Tracking,taz 4 alignment pieces
+63,Printing Tracking,trying to connect using usb over ip
+64,Printing Tracking,taz 6 igus bearing failure / wearing out
+65,Printing Tracking,differences between lulzbot taz models 1 2 3 4 5 6
+66,Printing Tracking,recv: echo:busy: processing
+67,Printing Tracking,lutzbot taz 6 printer nozzle drags back through print
+68,Printing Tracking,taz 6 won't stay level
+69,Printing Tracking,taz6 y axis backlash/positioning issues
+70,Printing Tracking,taz 5 / flexydually ninja semiflex
+71,Printing Tracking,what can cause z-offset to shift?
+72,Printing Tracking,dimensional accuracy is off
+73,Printing Tracking,taz 5: lcd print progress bar not tracking
+74,Printing Tracking,taz 5 z homing issue
+75,Printing Tracking,taz 5 dual extruder nozzle leveling
+76,Printing Tracking,taz 6 filament jamming up.
+77,Printing Tracking,taz 5 stringy print
+78,Printing Tracking,taz 6 pauses while printing from sd card
+79,Printing Tracking,taz5 won’t pre-heat
+80,Printing Tracking,custom gcode for maintanence tasks
+81,Printing Tracking,taz dual v3 cooling mod?
+82,Printing Tracking,bed adhesion or what?
+83,Printing Tracking,extruder head encased itself in abs overnight!
+84,Printing Tracking,filament grinding
+85,Printing Tracking,live z adjust
+86,Printing Tracking,which printing error is this?
+87,Printing Tracking,"lulzbot taz 5 motherboard swapped for rambo 1.3, printing only limited to a few inches on x/y axis"
+88,Printing Tracking,dual extruder v3 prints with wrong head midprint and other malfunctions
+89,Printing Tracking,aerostruder z-offset
+90,Printing Tracking,taz 4.1 motors not working
+91,Printing Tracking,print time meter?
+92,Printing Tracking,"prints end up ""printing in air"""
+93,Printing Tracking,temperature not keeping up
+94,Printing Tracking,room temperature inquiry
+95,Printing Tracking,blobby prints on taz6
+96,Printing Tracking,switching to gizmo dorks pei sheet
+97,Printing Tracking,what causes this kind of bad print
+98,Printing Tracking,help with filament stripping
+99,Printing Tracking,modular build plate
+100,Printing Tracking,lulzbot taz dual extruder v3 tool head dual color
+101,Printing Tracking,violent shaking along x-axis
+102,Printing Tracking,graining on first layer
+103,Printing Tracking,recommendations to fix this print?
+104,Printing Tracking,taz shutting down when wiping nozzle
+105,Printing Tracking,printing larger than the taz 6 build volume
+106,Printing Tracking,slow printing
+107,Printing Tracking,taz 6 external cooling fan(s)
+108,Printing Tracking,print warping in right front area
+109,Printing Tracking,broke heat break when trying to change nozzle on aerostruder
+110,Printing Tracking,speed
+111,Printing Tracking,what causes unexpected printer pause?
+112,Printing Tracking,taz 5 for printing tpu.  aero or dual v3?
+113,Printing Tracking,dual extruder v2 heat block fan upgrade
+114,Printing Tracking,cura terminal entry box ????
+115,Printing Tracking,taz 6 ditto printing
+116,Printing Tracking,bought a used taz6  what to check / adjust?
+117,Printing Tracking,"print error while printing ""all at once"""
+118,Printing Tracking,shell is peeling off the model
+119,Printing Tracking,total noob with soooo many questions...
+120,Printing Tracking,thermal error with blank heater_id
+121,Printing Tracking,dual v3 with flexible filaments (ie. ninjaflex)
+122,Printing Tracking,poor man's pause on filament run out
+123,Printing Tracking,dual extruder v3 - heat creep solved?
+124,Printing Tracking,why does filament extrude before printing.
+125,Printing Tracking,extruder too low?
+126,Printing Tracking,physical security question
+127,Printing Tracking,taz 5 heating bed - temperature error
+128,Printing Tracking,rasberry pi and webcam for the taz
+129,Printing Tracking,taz pei surface & extude problems
+130,Printing Tracking,hotend really clogged
+131,Printing Tracking,taz 6 bed calibration
+132,Printing Tracking,strange bubbling layers
+133,Printing Tracking,taz 5 flexydually fans not running at any speed less than 100%
+134,Printing Tracking,taz 6 dually - second extruder making contact with print volume
+135,Printing Tracking,how does the dualhead taz v2 compare to the v3?
+136,Printing Tracking,hexagon hoopla - hot end fell out
+137,Printing Tracking,ditched my skirt for this prusa i3 mk2 style wipe feature i made for the taz 6
+138,Printing Tracking,severe warping printing spare parts using chroma strand abs
+139,Printing Tracking,jamming hexagon print head
+140,Printing Tracking,first layer issues.
+141,Printing Tracking,taz 6 ringing/resonance/ghosting along the z-axis
+142,Printing Tracking,"print quality subpar, photo included"
+143,Printing Tracking,taz 6 just stopped working???
+144,Printing Tracking,tried to make a two colour sign offset
+145,Printing Tracking,taz 5 flexystruder v1 printable parts
+146,Printing Tracking,prints out of scale
+147,Printing Tracking,first layer issues?
+148,Printing Tracking,y-axis doing rugged sounds and not moving properly
+149,Printing Tracking,"sd card plastic broke off inside card reader, taz6"
+150,Printing Tracking,black nozzle
+151,Printing Tracking,"abs / hips melting on large print, suggested settings?"
+152,Printing Tracking,taz5 stops printing after a few hours
+153,Printing Tracking,bridge nylon lifting pei sheet
+154,Printing Tracking,"flexydually v2, help printing with flexy only"
+155,Printing Tracking,tips for resolving y-axis being off about 0.10mm
+156,Printing Tracking,quick question about taz environmental considerations...
+157,Printing Tracking,retraction issue when setting extruder temp and wait command
+158,Printing Tracking,"taz 6 physical printing stops but software thinks print is still going - ""too long extrusion"""
+159,Printing Tracking,had to learn it the hard way never reboot pc while attached to taz
+160,Printing Tracking,printer stops midprint
+161,Printing Tracking,flexion vs e3d titan aero?
+162,Printing Tracking,is this heat creep? (taz 5)
+163,Printing Tracking,request for help - lulzbot taz 5 printing issues
+164,Printing Tracking,dual extruder calibration
+165,Printing Tracking,filament bending at top of exstruder
+166,Printing Tracking,z-axis repeated binding
+167,Printing Tracking,speeding up print
+168,Printing Tracking,flexydually (v1) printing issues
+169,Printing Tracking,taz 6 circle issue
+170,Printing Tracking,taz 3 showing error mintemp
+171,Printing Tracking,need help inserting new igus bushings
+172,Printing Tracking,taz 6 broken extruder idler block (help!)
+173,Printing Tracking,taz 5 and taz mini for sale
+174,Printing Tracking,generic question - do you lube rails?
+175,Printing Tracking,taz 6 messing up layers
+176,Printing Tracking,taz 4/5 skipping steps?
+177,Printing Tracking,bubbles in pei sheet
+178,Printing Tracking,uneven/shifted/missing layer issues
+179,Printing Tracking,comprehensive tutorial?
+180,Printing Tracking,problem with first layer
+181,Printing Tracking,"taz6 x-axis jump, cura beta to blame?"
+182,Printing Tracking,extrusion delay - taz 6
+183,Printing Tracking,removing a stuck print
+184,Printing Tracking,"help with filament ""stalling"""
+185,Printing Tracking,nozzle change 0.3mm settings/firmware?
+186,Printing Tracking,buyer beware
+187,Printing Tracking,taz 4 z axis not lowering
+188,Printing Tracking,*warning* anyone with a thermal runaway issue
+189,Printing Tracking,other uses for a taz
+190,Printing Tracking,strange bulge on lower layers.
+191,Printing Tracking,acrylic plastic
+192,Printing Tracking,taz6 doesn't start printing after probing??
+193,Printing Tracking,maybe not clogging
+194,Printing Tracking,not sure where to begin...sub par print quality on my taz 6
+195,Printing Tracking,moarstruder
+196,Printing Tracking,dual extruder woes
+197,Printing Tracking,how to adjust extrusion speed?
+198,Printing Tracking,y axis shift on modified taz 1
+199,Printing Tracking,temperaure limit override
+200,Printing Tracking,tax 6 poor print quality
+201,Printing Tracking,print lifting off bed
+202,Printing Tracking,noob with a taz6 (please help with 2nd-4th layer)
+203,Printing Tracking,taz 6 pla issue.  please help!
+204,Printing Tracking,spool holder-box-dryer
+205,Printing Tracking,"help request: leveling a taz 5, by undoing previous mistakes?"
+206,Printing Tracking,lulzbot taz 6 flexydually z movement too small
+207,Printing Tracking,another taz 5 out of round question
+208,Printing Tracking,taz 6 bed cooling during auto-level
+209,Printing Tracking,resuming print doesn't resume extrusion  (taz 5)
+210,Printing Tracking,layer offset issue - not sure if mechanical or software
+211,Printing Tracking,taz 6 bed temperature calibration?
+212,Printing Tracking,quick unbox and first print with the moarstruder
+213,Printing Tracking,taz 6 layer shift after 24 hours - happened twice at around same spot
+214,Printing Tracking,hardware or firmware
+215,Printing Tracking,taz 6 parts list
+216,Printing Tracking,serious air under bedsheet/bubbling on first print
+217,Printing Tracking,infill failures
+218,Printing Tracking,tool head v2.1 fans
+219,Printing Tracking,weird print problem
+220,Printing Tracking,taz 6 upgrades and questions
+221,Printing Tracking,layer lines visible - tips for a very large print?
+222,Printing Tracking,thermal error e1 - taz 6
+223,Printing Tracking,white village mills abs clicking sound???
+224,Printing Tracking,z-axis binding/grinding (even with no power and level z)
+225,Printing Tracking,layers not smooth taz 6
+226,Printing Tracking,taz 6 print shifting
+227,Printing Tracking,default settings? taz 4/5
+228,Printing Tracking,flex3drive
+229,Printing Tracking,constant extrusion failures
+230,Printing Tracking,want smoother bottom with abs
+231,Printing Tracking,layers not lining up
+232,Printing Tracking,taz 6 stopped print when i booted into windows
+233,Printing Tracking,taz 5 lulzbot dual extruder v2 ooze sheild
+234,Printing Tracking,"got my new taz 6, have some questions."
+235,Printing Tracking,heater resistor stuck in heater block
+236,Printing Tracking,taz 6 print bed
+237,Printing Tracking,taz 6 retracting too much before leveling?
+238,Printing Tracking,taz 6 thermal runaway
+239,Printing Tracking,practical minimum layer height with taz-6 with ngen filament
+240,Printing Tracking,taz 5 to taz 6 v2.1 upgrade
+241,Printing Tracking,taz 5 w/ dual extruder not reaching temperature
+242,Printing Tracking,taz5 works wonders for your kid's costume!
+243,Printing Tracking,lulzbot taz 6 - bad phone case print
+244,Printing Tracking,print freezing - large herringbone gear from sd card
+245,Printing Tracking,taz 6: large prints shifting while dual extrusion printing
+246,Printing Tracking,snapped nozzle - with solution
+247,Printing Tracking,failed prints
+248,Printing Tracking,issues printing small part
+249,Printing Tracking,lulzbot taz 6 - bottom layers?
+250,Printing Tracking,"failed print, messy print head"
+251,Printing Tracking,daydreaming??
+252,Printing Tracking,simplify 3d frustration
+253,Printing Tracking,ripples on flat surfaces not from oscillation
+254,Printing Tracking,"enclosures and ventilation (of the machine, not the print)"
+255,Printing Tracking,new to the taz 6 and hairy prints?
+256,Printing Tracking,lulzbot taz 6 end
+257,Printing Tracking,print temp
+258,Printing Tracking,taz 6 nozzle touches print when printing solid layers
+259,Printing Tracking,my printing journey.
+260,Printing Tracking,extruder calibration frustrations
+261,Printing Tracking,taz 5 - spares to print?
+262,Printing Tracking,layer consistency
+263,Printing Tracking,minor print gliches in taz6
+264,Printing Tracking,print stopping in the middle of a print
+265,Printing Tracking,(heated) enclosure for taz 6?
+266,Printing Tracking,taz 4 to e3d light
+267,Printing Tracking,sd card not being read...
+268,Printing Tracking,taz 6 power consuumption
+269,Printing Tracking,taz 6 - hardened steel nozzle / hot-end
+270,Printing Tracking,"improved filament tube path parts for taz 5, 6"
+271,Printing Tracking,taz 5: won't read sd card anymore
+272,Printing Tracking,lulzbot taz tool head v2 skips filament
+273,Printing Tracking,thermal blanket
+274,Printing Tracking,questions about printing replacement parts for taz 6.
+275,Printing Tracking,defaut e-step in cura and on lulzbot
+276,Printing Tracking,post cleaning/prep of pei bed on taz 6
+277,Printing Tracking,flexystruder v1 with taz 5
+278,Printing Tracking,taz6 dual extruder v2 extrudes a bunch of excess filament before starting print
+279,Printing Tracking,"extruder decision advice for library - flexidually, dual extruder"
+280,Printing Tracking,trouble all of a sudden
+281,Printing Tracking,taz 6 - problem with z axis --- help
+282,Printing Tracking,clack clack sound on retract taz4 budaschnozzle 2
+283,Printing Tracking,taz 5 stops extruding at exactly the same point
+284,Printing Tracking,taz 5 vs makergear m2e
+285,Printing Tracking,taz5 cat guard build february 2016
+286,Printing Tracking,high speed printing experiences?
+287,Printing Tracking,taz5 0.5mm vs 0.35mm nozzle
+288,Printing Tracking,taz 5 pla have to cold pull after every print
+289,Printing Tracking,taz 5 calibration print
+290,Printing Tracking,taz 4.1 extruder motor problems
+291,Printing Tracking,taz 5 only extrudes filament for a couple of seconds
+292,Printing Tracking,pla doesn't stick to the heated bed?
+293,Printing Tracking,weird extrusion issue
+294,Printing Tracking,"printing taz parts with pet, nylon, amphora etc."
+295,Printing Tracking,new taz 6 need help please with dimensional accuracy
+296,Printing Tracking,taz 6 adhesion/levelling problems
+297,Printing Tracking,taz 6 skipping commands at end of gcode files
+298,Printing Tracking,taz 6 jams unless very high temperature
+299,Printing Tracking,lulzbot taz 5 filament extruding very slowly
+300,Printing Tracking,lulzbot taz 3 stops randomly
+301,Printing Tracking,prints come out lumpy
+302,Printing Tracking,modified taz speed trials - 40mm calibration cube
+303,Printing Tracking,taz 6 toolhead wobble
+304,Printing Tracking,taz 5 auto leveling
+305,Printing Tracking,finest layer setting for taz 5
+306,Printing Tracking,layers over support material look terrible
+307,Printing Tracking,improving the flexydually cleaning and leveling
+308,Printing Tracking,taz 5 dual extruder head calibration squares problem?
+309,Printing Tracking,taz 5 abs cracking even with cat guard. next steps?
+310,Printing Tracking,replacement controller - fried z driver
+311,Printing Tracking,improving small sphere quality
+312,Printing Tracking,layer banding - z axis issue or x axis?
+313,Printing Tracking,does flexystruder work with all filaments?
+314,Printing Tracking,extruder jams on larger prints and other problems
+315,Printing Tracking,help with base layer
+316,Printing Tracking,taz 5: z-wobble fix
+317,Printing Tracking,printing hard plastic in a flexistuder
+318,Printing Tracking,lulzbot taz 5 printing skewed holes
+319,Printing Tracking,taz 5 stops in the middle of a project
+320,Printing Tracking,need guidance: printing calibration cubes with flat corners
+321,Printing Tracking,taz5 producing rough surface
+322,Printing Tracking,taz 4 print issue
+323,Printing Tracking,modified cat guard taz 4/5 cabinet
+324,Printing Tracking,taz 4/5 y axis end plate stl?
+325,Printing Tracking,simple ninjaflex mod
+326,Printing Tracking,successful printing???
+327,Printing Tracking,has anyone modelled the taz hexagon hot end in 3d?
+328,Printing Tracking,change in print bed after printing abs
+329,Printing Tracking,stock taz 5 issue
+330,Printing Tracking,scratch on glass bed
+331,Printing Tracking,printing fine details with taz 5
+332,Printing Tracking,retraction / bubbles
+333,Printing Tracking,dual extruder knocking normal?
+334,Printing Tracking,extruder temp malfunction
+335,Printing Tracking,what's causing this?
+336,Printing Tracking,taz 5 printer is hanging mid print.
+337,Printing Tracking,setup question - new taz + new flexydually
+338,Printing Tracking,is it supposed to do this?
+339,Printing Tracking,printing statistics
+340,Printing Tracking,problems with new taz 5 printer
+341,Printing Tracking,designing an experiment for taz 5 heated bed
+342,Printing Tracking,taz 5: can fan be used on high temp prints?
+343,Printing Tracking,adhesion nightmares
+344,Printing Tracking,x-axis 12mm upgrade for taz 5. no more sag!
+345,Printing Tracking,random wait for user input
+346,Printing Tracking,printer not printing.. maybe blockage?
+347,Printing Tracking,need someone help lulzbot taz 4
+348,Printing Tracking,odd stepper issue on y axis
+349,Printing Tracking,prints are not sticking well to pei (taz 5)
+350,Printing Tracking,taz 5 prints size larger than expected
+351,Printing Tracking,taz5 unwanted retraction - confused?
+352,Printing Tracking,x-axis stepper motor issue
+353,Printing Tracking,dual extruder pva supports/automatic?
+354,Printing Tracking,wierd extruder motor issue that just started
+355,Printing Tracking,grinding through pla at a crazy rate
+356,Printing Tracking,annoying heat sink fan
+357,Printing Tracking,dual extruder flexy upgrade.
+358,Printing Tracking,5a fuse blew up
+359,Printing Tracking,how long does pei sheet usually last?
+360,Printing Tracking,printing multi-material parts with a single extruder
+361,Printing Tracking,taz very loose solid rod bearings?
+362,Printing Tracking,"modified taz5 for 1.7mm filament, have 'bulging' corners"
+363,Printing Tracking,so what do you think went wrong with my taz print?
+364,Printing Tracking,bubbling on top surface of print and corner lifting
+365,Printing Tracking,"z zero micrometer mount, pictures, files"
+366,Printing Tracking,brand new (<1week) stock taz5 x-axis stepper getting very hot
+367,Printing Tracking,taz5 dual v2 issue - could it be firmware ?
+368,Printing Tracking,taz 5 freezes
+369,Printing Tracking,fixed my wobbletaz5
+370,Printing Tracking,loose hotend
+371,Printing Tracking,nozzle can't hoild temps above 240..is it me?
+372,Printing Tracking,troublesome print - print size limitations
+373,Printing Tracking,issue with filament/extruder
+374,Printing Tracking,small fan on taz 5
+375,Printing Tracking,squashing on bottom of abs parts
+376,Printing Tracking,taz5 vs. makergear m2
+377,Printing Tracking,leaves extra extrusion on the back of a fill but not front
+378,Printing Tracking,taz 3 20-25c temperature discrepancy
+379,Printing Tracking,issues printing taller objects.
+380,Printing Tracking,longevity of taz stepper motors
+381,Printing Tracking,borosilicate glass bed reversible?
+382,Printing Tracking,question about extruder fans
+383,Printing Tracking,cylinder zits
+384,Printing Tracking,filament temperatures
+385,Printing Tracking,taz 5 bed adhesion
+386,Printing Tracking,taz5 - z axis steppers move at different rates?
+387,Printing Tracking,hot end not heating up
+388,Printing Tracking,any success with the dual metal taz (dual v2)?
+389,Printing Tracking,cant get prints to correct size
+390,Printing Tracking,retraction problem.  ideas?
+391,Printing Tracking,brand new taz5 extruder problems
+392,Printing Tracking,new taz 5 - extruder feed motor does not rotate
+393,Printing Tracking,printing from sd card?
+394,Printing Tracking,corner glob
+395,Printing Tracking,some questions before purchasing a taz5.
+396,Printing Tracking,printing a plen2 (how to make parts fit)
+397,Printing Tracking,uhhhgg -   couple issues that were not here before
+398,Printing Tracking,horizontal banding... bad!!!
+399,Printing Tracking,exstruder seems to time out
+400,Printing Tracking,taz 5 large print stopping mid-print - twice!
+401,Printing Tracking,anyone looking for a taz 5
+402,Printing Tracking,first print and the rocktapus ripped my bed :(
+403,Printing Tracking,nozzle temp dropping during print
+404,Printing Tracking,filament getting stuck.
+405,Printing Tracking,trouble with prints staying down.
+406,Printing Tracking,wavy wall if print speed is not very low?
+407,Printing Tracking,must-have accessories for starter?
+408,Printing Tracking,camera mount for taz 4/5
+409,Printing Tracking,replacing the stock parts
+410,Printing Tracking,printing from sd-card crashed on usb connect
+411,Printing Tracking,idea for removing pei from bed
+412,Printing Tracking,taz 4 failed prints
+413,Printing Tracking,fundamental differences between mini and taz 5?
+414,Printing Tracking,0.35 adapter
+415,Printing Tracking,small part z-height dragging
+416,Printing Tracking,y axis problem
+417,Printing Tracking,new taz 5 owner - how do i use my tool bag?
+418,Printing Tracking,taz 5 froze during long print job
+419,Printing Tracking,hot end temperature dropping when heated bed is on
+420,Printing Tracking,guide on upgrading taz4 with e3d v6
+421,Printing Tracking,weird sphere shape printout
+422,Printing Tracking,flexistruder question
+423,Printing Tracking,dual extruder is garbage.
+424,Printing Tracking,is anyone a bit frustrated buy this?
+425,Printing Tracking,x-axis going out of level
+426,Printing Tracking,help a newbie with his 1st 3d printer
+427,Printing Tracking,"dual extruder - prints extra ""block tower"""
+428,Printing Tracking,taz 5 pla random clogging issues and a solution.
+429,Printing Tracking,new taz user
+430,Printing Tracking,different z heights with different extruders
+431,Printing Tracking,hotend heating issue : taz4 + e3d v6
+432,Printing Tracking,"taz 5 print failing, what's wrong???"
+433,Printing Tracking,taz5 mimicking printing
+434,Printing Tracking,dual extruder second head bumping
+435,Printing Tracking,filament arm pivot mod
+436,Printing Tracking,brand new lulzbot taz 5 for sale
+437,Printing Tracking,printing stop. object not complete
+438,Printing Tracking,taz4 / rambo aux fan wiring?
+439,Printing Tracking,pei bed sticks too much
+440,Printing Tracking,adjusting belt tension for perfect circles
+441,Printing Tracking,taz 5 horizontal ridges
+442,Printing Tracking,taz 3 help
+443,Printing Tracking,taz 5 and printing spare parts
+444,Printing Tracking,thinking about buying a taz 5
+445,Printing Tracking,unable to unscrew nozzle after clogged feed for several hours unattended.
+446,Printing Tracking,hot end jam - filament really stuck.
+447,Printing Tracking,considering a taz 5
+448,Printing Tracking,printing taz3 to taz5 upgrade parts with a lulzmini?
+449,Printing Tracking,getting usable supports with taz4 dual with simplify3d
+450,Printing Tracking,trying to diagnose a printing problem
+451,Printing Tracking,taz 3 or lulzbot mini for first time hobbiest?
+452,Printing Tracking,taz4/5 system level cad layout
+453,Printing Tracking,reverting back to taz 4 nozzle(and head) from taz 5
+454,Printing Tracking,taz 5 not maintaining hot end temperature
+455,Printing Tracking,taz1 fine tuning
+456,Printing Tracking,fighting z wobble
+457,Printing Tracking,sproket come loose / sheared ?
+458,Printing Tracking,thumb screws unscrewing
+459,Printing Tracking,"fine bottom, lacking top"
+460,Printing Tracking,new taz5 user needs help
+461,Printing Tracking,dual duct halo taz 4
+462,Printing Tracking,recommended computer hardware for the taz5?
+463,Printing Tracking,out of round large herringbone extruder gear
+464,Printing Tracking,likelihood of success??
+465,Printing Tracking,abs part lifting/warping off bed of taz5
+466,Printing Tracking,vertical ripples
+467,Printing Tracking,item deformation
+468,Printing Tracking,taz v nozzle clogging
+469,Printing Tracking,upgraded to taz 5 now print issues
+470,Printing Tracking,how long should the pei sheet last?
+471,Printing Tracking,"taz 5 hotend problem, please help"
+472,Printing Tracking,holes in top layer
+473,Printing Tracking,sad octopuses
+474,Printing Tracking,bed leveling using a digital indicator
+475,Printing Tracking,taz 5 help! first layer failing pretty bad.
+476,Printing Tracking,"hexagon hot end clogged already, any tips to unclog?"
+477,Printing Tracking,enclosure for taz5
+478,Printing Tracking,first layer
+479,Printing Tracking,taz 5 extruder issue.
+480,Printing Tracking,new taz 5 adhesion issue
+481,Printing Tracking,taz 5 extruding issues
+482,Printing Tracking,best practices to remove finished prints from print bed
+483,Printing Tracking,my taz 5 died
+484,Printing Tracking,taz 5 heat sink fan
+485,Printing Tracking,"i got question, there is a lot of them!"
+486,Printing Tracking,is this a z-wobble issue?
+487,Printing Tracking,several extruder questions...
+488,Printing Tracking,small cylindrical parts printing oval
+489,Printing Tracking,taz 5 hotend clogged
+490,Printing Tracking,hexagon nozzle and volcano
+491,Printing Tracking,printer will not turn on after only 3 prints :(
+492,Printing Tracking,how to removed printed objects
+493,Printing Tracking,filament stuck oozing out slowly
+494,Printing Tracking,instead of using 3m tape for pei
+495,Printing Tracking,taz4 misfeeding - hobbed bolt chewing filament
+496,Printing Tracking,replacment printed parts for the taz 5
+497,Printing Tracking,questions about replacement nozzles
+498,Printing Tracking,new  taz 5 owner 3 weeks in
+499,Printing Tracking,taz 5 hips nozzle to close?
+500,Printing Tracking,fine tuning help needed since hex hotend
+501,Printing Tracking,what i want for xmas is...auto bed leveling (kittaz)
+502,Printing Tracking,brand new taz 5 user
+503,Printing Tracking,printing replacement parts for taz
+504,Printing Tracking,what do i do if a part of my new taz5 printer came broken?
+505,Printing Tracking,taz 5 - questions
+506,Printing Tracking,new tool head v2 and ninja flex?
+507,Printing Tracking,dual extruder: can this be produced cleanly?
+508,Printing Tracking,metal shavings and clogged extruder
+509,Printing Tracking,new user seeking advice
+510,Printing Tracking,tips for a convert?
+511,Printing Tracking,hotend issues
+512,Printing Tracking,better print quality
+513,Printing Tracking,new hotend kit question
+514,Printing Tracking,printing freezes
+515,Printing Tracking,odd pattern printing a flat box
+516,Printing Tracking,pla prints are curling off the bed
+517,Printing Tracking,taz4 printing problems
+518,Printing Tracking,"single and dual extruder hotends, can i freely swap them?"
+519,Printing Tracking,taz 4 z axis wont move.
+520,Printing Tracking,a little stuck here.
+521,Printing Tracking,print bed is fianlly level
+522,Printing Tracking,problem using flashair sd card
+523,Printing Tracking,heated bed always registers 1c below set temp
+524,Printing Tracking,very low extrusion rate after pla clog
+525,Printing Tracking,taz 4 feed rate and speed
+526,Printing Tracking,improving dimensional accuracy on taz 4
+527,Printing Tracking,new taz4 owner and have hard time getting prints
+528,Printing Tracking,new taz4 printer weird extrusion noise when printing slowly
+529,Printing Tracking,chunky printing in perimeters and infill
+530,Printing Tracking,"taz4 abs prints lumpy, wavy, bumpy!"
+531,Printing Tracking,can't print from sd card
+532,Printing Tracking,"taz 4 stopped extruding, now it's broken"
+533,Printing Tracking,lock washer retrofit
+534,Printing Tracking,"taz 4 not printing properly, help!"
+535,Printing Tracking,general help with taz 4
+536,Printing Tracking,switching to pla from abs
+537,Printing Tracking,taz 4 won't turn on
+538,Printing Tracking,extruder tension
+539,Printing Tracking,expanding the print envelope. what would be involved?
+540,Printing Tracking,"taz 4 adhesion problems and ""wait for user"" on lcd screen"
+541,Printing Tracking,drive gear broken. why?
+542,Printing Tracking,sharp overhang blobbing
+543,Printing Tracking,extruder hitting lower layer(s)
+544,Printing Tracking,taz 4 not reading sd card
+545,Printing Tracking,budaschnozzle not extruding
+546,Printing Tracking,"hybrid parts.. abs and ninjaflex,  anybody doing it?"
+547,Printing Tracking,pla jamming on taz 4
+548,Printing Tracking,fan lowering hot end temp
+549,Printing Tracking,taz 4 quivers printing round sequences
+550,Printing Tracking,new taz 4 on-order
+551,Printing Tracking,taz 4 filament holder bar strength question
+552,Printing Tracking,a few pre purchase questions
+553,Printing Tracking,why do bad things happen after the print finishes?
+554,Printing Tracking,curling on corners
+555,Printing Tracking,taz 40mm fan mount designs/revisions
+556,Printing Tracking,thoughts about the taz 3 from taz 3 owners wanted
+557,Printing Tracking,blown fan 2 mosfet
+558,Printing Tracking,"strange ""striping"" of extruded filament"
+559,Printing Tracking,bed calibration print question
+560,Printing Tracking,taz heated bed - no longer going up to temp
+561,Printing Tracking,considering purchase
+562,Printing Tracking,small repeating blob on inner perimiters
+563,Printing Tracking,lulzbot customer support in need of an upgrade :-(
+564,Printing Tracking,what's up with these noisy fans??!?!
+565,Printing Tracking,extruder fan help!
+566,Printing Tracking,plowing on 0.15 layer for some areas
+567,Printing Tracking,hobbed bolt chewing through abs on taz 0.15 layer height
+568,Printing Tracking,hot end fail
+569,Printing Tracking,"taz vs. ultimaker, series 1, m2..."
+570,Printing Tracking,"unsure of cause, help?"
+571,Printing Tracking,heat resistor dead at 3 months
+572,Printing Tracking,frakentaz? building a taz from a prusa i2?
+573,Printing Tracking,taz y-axis failure
+574,Printing Tracking,rotator cuff - too much extrusion on corners or overhangs
+575,Printing Tracking,"weird ""ribbing"" on my prints"
+576,Printing Tracking,poor layer adhesion and some funky y-axis stuff on taz
+577,Printing Tracking,what scale are taz source files in?
+578,Printing Tracking,new printer calibration issue
+579,Printing Tracking,printing replacement parts
+580,Printing Tracking,print help
+581,Printing Tracking,dimension accuracy problem while printing with taz
+582,Printing Tracking,slightly off x and y axis dimensions
+583,Printing Tracking,goofy first layers
+584,Quality Checking,taz fan mount!
+585,Quality Checking,taz pro owners -- do you recommend it?
+586,Quality Checking,taz 5 low print quality
+587,Quality Checking,taz 3 with taz 5 extruder
+588,Quality Checking,new taz 5 owner needs help
+589,Quality Checking,taz 5 and upgrades from aliexpress?
+590,Quality Checking,help with print quality
+591,Quality Checking,taz 6 igus bearing failure / wearing out
+592,Quality Checking,new tool heads
+593,Quality Checking,differences between lulzbot taz models 1 2 3 4 5 6
+594,Quality Checking,top layer possible over extrusion
+595,Quality Checking,room temperature inquiry
+596,Quality Checking,troubleshooting print quality
+597,Quality Checking,the first layer
+598,Quality Checking,cura terminal entry box ????
+599,Quality Checking,poor man's pause on filament run out
+600,Quality Checking,dual extruder - what should i expect?
+601,Quality Checking,taz5 z-axis skewed after each print
+602,Quality Checking,taz 5 user looking for test print on taz 6
+603,Quality Checking,squish and stringy appearance
+604,Quality Checking,taz 6 ringing/resonance/ghosting along the z-axis
+605,Quality Checking,print quality problem
+606,Quality Checking,"print quality subpar, photo included"
+607,Quality Checking,suggestions on cleaning up print
+608,Quality Checking,request for help - lulzbot taz 5 printing issues
+609,Quality Checking,first benchy: how to improve!
+610,Quality Checking,bed centered cam mount for taz 6 ???
+611,Quality Checking,why i bought a taz 5
+612,Quality Checking,taz 6 circle issue
+613,Quality Checking,poor print quality
+614,Quality Checking,taz 6 messing up layers
+615,Quality Checking,strange lines on my print
+616,Quality Checking,not sure where to begin...sub par print quality on my taz 6
+617,Quality Checking,y axis shift on modified taz 1
+618,Quality Checking,tax 6 poor print quality
+619,Quality Checking,quick unbox and first print with the moarstruder
+620,Quality Checking,taz 4 belt problem
+621,Quality Checking,infill to perimeter issues
+622,Quality Checking,new taz 6 owner
+623,Quality Checking,"i'll admit it, i like em small."
+624,Quality Checking,constant extrusion failures
+625,Quality Checking,practical minimum layer height with taz-6 with ngen filament
+626,Quality Checking,new to the taz 6 and hairy prints?
+627,Quality Checking,too much rocktopus settings
+628,Quality Checking,layer consistency
+629,Quality Checking,flexystruder v1 with taz 5
+630,Quality Checking,taz 5 stops extruding at exactly the same point
+631,Quality Checking,taz 5 vs makergear m2e
+632,Quality Checking,high speed printing experiences?
+633,Quality Checking,leveling the y axis - getting rid of high / low spots
+634,Quality Checking,replacement controller - fried z driver
+635,Quality Checking,improving small sphere quality
+636,Quality Checking,extruder jams on larger prints and other problems
+637,Quality Checking,flexy dually - almost there (print quality)
+638,Quality Checking,dampers for taz 5 steppers?
+639,Quality Checking,printing fine details with taz 5
+640,Quality Checking,lulzbot v2 hot end w/ stainless steel or other high quality nozzle?
+641,Quality Checking,z couplers
+642,Quality Checking,designing an experiment for taz 5 heated bed
+643,Quality Checking,do we like the new v2 dual print head ?
+644,Quality Checking,taz 5 prints size larger than expected
+645,Quality Checking,print quality degrading?
+646,Quality Checking,fixed my wobbletaz5
+647,Quality Checking,loose hotend
+648,Quality Checking,troublesome print - print size limitations
+649,Quality Checking,what should i actually expect from my taz 5 with minimal modifications
+650,Quality Checking,squashing on bottom of abs parts
+651,Quality Checking,any success with the dual metal taz (dual v2)?
+652,Quality Checking,sh!tty build quality
+653,Quality Checking,some questions before purchasing a taz5.
+654,Quality Checking,printing a plen2 (how to make parts fit)
+655,Quality Checking,new taz 5 - issues with taller prints - consistent height ribbing / waviness (solved)
+656,Quality Checking,ticking noise somewhere on the y axis
+657,Quality Checking,print quality after layer >~6
+658,Quality Checking,taz 4.5 print quality issue
+659,Quality Checking,quality problems
+660,Quality Checking,printing stop. object not complete
+661,Quality Checking,taz4 / rambo aux fan wiring?
+662,Quality Checking,z axis moves are inconsistent
+663,Quality Checking,taz 5 nozzle clog
+664,Quality Checking,1/4 of my print messes up.
+665,Quality Checking,dual duct halo taz 4
+666,Quality Checking,changing to a chimera
+667,Quality Checking,holes in top layer
+668,Quality Checking,new taz 5 owner unboxing experience
+669,Quality Checking,questions about replacement nozzles
+670,Quality Checking,new  taz 5 owner 3 weeks in
+671,Quality Checking,fine tuning help needed since hex hotend
+672,Quality Checking,improved taz fan duct
+673,Quality Checking,dual extruder: can this be produced cleanly?
+674,Quality Checking,better print quality
+675,Quality Checking,slightly gloppy edges (pla)
+676,Quality Checking,best taz 3/4 upgrades...
+677,Quality Checking,problem using flashair sd card
+678,Quality Checking,what manner of sorcery is this?
+679,Quality Checking,sudden issue with default taz3 profile
+680,Quality Checking,taz 4 print quality advice?
+681,Quality Checking,print resolution for little octopus that comes with new taz?
+682,Quality Checking,"taz 4 adhesion problems and ""wait for user"" on lcd screen"
+683,Quality Checking,"hybrid parts.. abs and ninjaflex,  anybody doing it?"
+684,Quality Checking,thoughts about the taz 3 from taz 3 owners wanted
+685,Quality Checking,taz 2 print quality finally sorted (hopefully)
+686,Quality Checking,considering purchase
+687,Quality Checking,lulzbot customer support in need of an upgrade :-(
+688,Quality Checking,hobbed bolt chewing through abs on taz 0.15 layer height
+689,Maintenance,taz 3 with taz 5 extruder
+690,Maintenance,differences between lulzbot taz models 1 2 3 4 5 6
+691,Maintenance,cura terminal entry box ????
+692,Maintenance,poor man's pause on filament run out
+693,Maintenance,considering purchasing a taz 5 from a friend
+694,Maintenance,removing a stuck print
+695,Maintenance,taz 6 - no greasing required on any axis?
+696,Maintenance,quick unbox and first print with the moarstruder
+697,Maintenance,constant extrusion failures
+698,Maintenance,flexystruder v1 with taz 5
+699,Maintenance,"extruder decision advice for library - flexidually, dual extruder"
+700,Maintenance,building an enclosure
+701,Maintenance,general maintenance
+702,Maintenance,upgrades to convert a taz 4 to a taz 5
+703,Maintenance,considering a taz 5
+704,Maintenance,hotend no temp. heater is working
+705,Maintenance,problem using flashair sd card
+706,Maintenance,"hybrid parts.. abs and ninjaflex,  anybody doing it?"
+707,Maintenance,thoughts about the taz 3 from taz 3 owners wanted
+708,Inventory Management,new taz pro 2nd extruder not lowering
+709,Inventory Management,taz 3 with taz 5 extruder
+710,Inventory Management,cura terminal entry box ????
+711,Inventory Management,poor man's pause on filament run out
+712,Inventory Management,quick unbox and first print with the moarstruder
+713,Inventory Management,constant extrusion failures
+714,Inventory Management,flexystruder v1 with taz 5
+715,Inventory Management,problem using flashair sd card
+716,Inventory Management,"hybrid parts.. abs and ninjaflex,  anybody doing it?"
+717,Payment Selection,taz 3 with taz 5 extruder
+718,Payment Selection,cura terminal entry box ????
+719,Payment Selection,poor man's pause on filament run out
+720,Payment Selection,quick unbox and first print with the moarstruder
+721,Payment Selection,constant extrusion failures
+722,Payment Selection,flexystruder v1 with taz 5
+723,Payment Selection,problem using flashair sd card
+724,Payment Selection,"hybrid parts.. abs and ninjaflex,  anybody doing it?"
