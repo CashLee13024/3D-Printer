@@ -1,0 +1,41 @@
+* Create question_replie nodes & relation:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Que_replies.csv" as Que_Replies merge (qt:Question_title {content: (Que_Replies.question_title)}) merge (qd:Question_description {content: (Que_Replies.question_description)}) merge (re:Replies {content: (Que_Replies.replies)}) merge (qt)-[:Occured_when]->(qd) merge (re)-[:Effective_when]->(qd) merge (re)-[:Solve]->(qt)
+
+
+*Create QT triple relation:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Triples_for_QT.csv" as Triples_QT merge (s:subject {content: (Triples_QT.QT_subject)}) merge (o:object {content: (Triples_QT.QT_object)}) merge (s)-[:Relation{content: (Triples_QT.relation)}]->(o)
+
+*Construct 'has subject' relation between QT and respective subjects:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/QT_subject.csv" as QT_Subject match (qt1:Question_title {content: QT_Subject.QT_content}) match (s1:subject {content: QT_Subject.QT_subjects}) merge (qt1)-[:has_subject]->(s1)
+
+*Construct 'has object' relation between QT and respective objects:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/QT_object.csv" as QT_object match (qt1:Question_title {content: QT_object.QT_content}) match (o1:object {content: QT_object.QT_objects}) merge (qt1)-[:has_object]->(o1)
+
+
+
+*Create QD triple relation:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Triples_for_QD.csv" as Triples_QD merge (s:subject {content: (Triples_QD.QD_subject)}) merge (o:object {content: (Triples_QD.QD_object)}) merge (s)-[:Relation{content: (Triples_QD.relation)}]->(o)
+
+*Construct 'has subject' relation between QD and respective subjects:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/QD_subject.csv" as QD_Subject match (qd1:Question_description {content: QD_Subject.QD_content}) match (s1:subject {content: QD_Subject.QD_subjects}) merge (qd1)-[:has_subject]->(s1)
+
+*Construct 'has object' relation between QD and respective objects:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/QD_object.csv" as QD_object match (qd1:Question_description {content: QD_object.QD_content}) match (o1:object {content: QD_object.QD_objects}) merge (qd1)-[:has_object]->(o1)
+
+
+
+
+*Create reply triple relation:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Triples_for_Replies.csv" as Triples_Replies merge (s:subject {content: (Triples_Replies.Replies_subject)}) merge (o:object {content: (Triples_Replies.Replies_object)}) merge (s)-[:Relation{content: (Triples_Replies.relation)}]->(o)
+
+
+*Construct 'has subject' relation between replies and respective subjects:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Repleis_subject.csv" as Replies_Subject match (re1:Replies {content: Replies_Subject.Replies_content}) match (s1:subject {content: Replies_Subject.Replies_subjects}) merge (re1)-[:has_subject]->(s1)
+
+
+*Construct 'has object' relation between replies and respective objects:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Repleis_object.csv" as Replies_object match (re1:Replies {content: Replies_object.Replies_content}) match (o1:object {content: Replies_object.Replies_objects}) merge (re1)-[:has_object]->(o1)
+
+
+*Construct 'identifies' relation between identical subjects and objects:*
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/identical.csv" as Identical match (s1:subject {content: Identical.subject}) match (o1:object {content: Identical.object}) merge (s1)-[:identifies]->(o1)
