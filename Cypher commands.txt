@@ -5,17 +5,17 @@ LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Pr
 *Create QT triple relation:*
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Triples_for_QT.csv" as Triples_QT merge (s:subject {content: (Triples_QT.QT_subject)}) merge (o:object {content: (Triples_QT.QT_object)}) merge (s)-[:Relation{content: (Triples_QT.relation)}]->(o)
 
-*Construct 'has subject' relation between QT and respective subjects:*
+*Construct 'has subject' relation between QT and respective subjects:* (x)
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/QT_subject.csv" as QT_Subject match (qt1:Question_title {content: QT_Subject.QT_content}) match (s1:subject {content: QT_Subject.QT_subjects}) merge (qt1)-[:has_subject]->(s1)
 
-*Construct 'has object' relation between QT and respective objects:*
+*Construct 'has object' relation between QT and respective objects:* (x)
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/QT_object.csv" as QT_object match (qt1:Question_title {content: QT_object.QT_content}) match (o1:object {content: QT_object.QT_objects}) merge (qt1)-[:has_object]->(o1)
 
 
 
-*Create QD triple relation:*
+*Create QD triple relation:* (x)
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Triples_for_QD.csv" as Triples_QD merge (s:subject {content: (Triples_QD.QD_subject)}) merge (o:object {content: (Triples_QD.QD_object)}) merge (s)-[:Relation{content: (Triples_QD.relation)}]->(o)
 
 *Construct 'has subject' relation between QD and respective subjects:*
@@ -29,7 +29,7 @@ LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Pr
 
 
 
-*Create reply triple relation:*
+*Create reply triple relation:* (x)
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/CashLee13024/3D-Printer/master/Triples_for_Replies.csv" as Triples_Replies merge (s:subject {content: (Triples_Replies.Replies_subject)}) merge (o:object {content: (Triples_Replies.Replies_object)}) merge (s)-[:Relation{content: (Triples_Replies.relation)}]->(o)
 
 
